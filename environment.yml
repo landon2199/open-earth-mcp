@@ -1,0 +1,19 @@
+name: open-earth-mcp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - rasterio
+  - pyproj
+  - shapely
+  - xarray
+  - odc-stac
+  - pystac-client
+  - planetary-computer
+  - matplotlib
+  - pytest
+  - pip
+  - pip:
+      - "mcp>=2.0,<3"
+      - -e .

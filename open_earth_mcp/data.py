@@ -100,7 +100,7 @@ COLLECTIONS = {
         "used_for": "elevation, area_summary, verify",
         "resolution_m": "30 (1 arc-second)",
         "license": "Copernicus DEM licence (free; attribution required)",
-        "license_url": "https://spacedata.copernicus.eu/documents/20126/0/CSCDA_ESA_Mission-specific+Annex.pdf",
+        "license_url": "https://dataspace.copernicus.eu/explore-data/data-collections/copernicus-contributing-missions/collections-description/COP-DEM",
         "attribution": "(c) DLR e.V. 2010-2014 and (c) Airbus Defence and Space GmbH 2014-2018 provided under "
         "COPERNICUS by the European Union and ESA; all rights reserved",
     },
